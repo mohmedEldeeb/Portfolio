@@ -1,34 +1,28 @@
 {
     "portfolio": [
         {
-            "cover": "/portfolio/1/one.png",
-            "title": "GGWP",
-            "description": "React, JSX, Tailwind, Jest",
-            "url": "http://google.com"
+            "cover": "/portfolio/1/smartDoc.png",
+            "title": " Smart Doctor",
+            "description": "React, JSX ,redux , Tailwind, Jest",
+            "url": "https://onlinedoc-24.com/"
+        },
+        {
+            "cover": "/portfolio/1/book.png",
+            "title": "library",
+            "description": "Demo js, Tailwind, Jest",
+            "url": "https://upbeat-babbage-40ca6d.netlify.app"
+        },
+        {
+            "cover": "/portfolio/1/borger.png",
+            "title": "Demo",
+            "description": " Demo React, JSX, Tailwind, Jest",
+            "url": "https://vibrant-lalande-391cd9.netlify.app"
         },
         {
             "cover": "/portfolio/1/one.png",
-            "title": "GGWP",
+            "title": "wady degla clubs",
             "description": "React, JSX, Tailwind, Jest",
-            "url": "http://google.com"
-        },
-        {
-            "cover": "/portfolio/1/one.png",
-            "title": "GGWP",
-            "description": "React, JSX, Tailwind, Jest",
-            "url": "http://google.com"
-        },
-        {
-            "cover": "/portfolio/1/one.png",
-            "title": "GGWP",
-            "description": "React, JSX, Tailwind, Jest",
-            "url": "http://google.com"
-        },
-        {
-            "cover": "/portfolio/1/one.png",
-            "title": "GGWP",
-            "description": "React, JSX, Tailwind, Jest",
-            "url": "http://google.com"
+            "url": "https://wonderful-keller-4f83bd.netlify.app/"
         }
     ]
 }
